@@ -1,0 +1,11 @@
+
+langchain
+langchain-experimental
+langchain-openai
+qrcode
+black
+python-dotenv
+langchainhub
+pandas
+tabulate
+streamlit
